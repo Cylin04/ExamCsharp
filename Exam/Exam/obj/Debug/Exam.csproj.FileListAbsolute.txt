@@ -1,0 +1,7 @@
+C:\Users\PC - ASUS\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\PC - ASUS\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\PC - ASUS\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\PC - ASUS\source\repos\Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\PC - ASUS\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\PC - ASUS\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\PC - ASUS\source\repos\Exam\Exam\obj\Debug\Exam.pdb
